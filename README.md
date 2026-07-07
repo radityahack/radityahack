@@ -8,14 +8,9 @@
 
 ###
 
-<h5 data-importer="text" align="left">Cybersecurity enthusiast & penetration tester recognized by NASA's Vulnerability Disclosure Program (4x) and multiple government platforms. Passionate about merging AI into security research — building toward a career at the intersection of cybersecurity and AI engineering</h5>
 
-###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/radityahack/radityahack/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/radityahack/radityahack/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -33,11 +28,7 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radityahack/radityahack/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radityahack/radityahack/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/radityahack/radityahack/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+
 
 ###
 
